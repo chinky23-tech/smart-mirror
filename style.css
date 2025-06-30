@@ -25,3 +25,21 @@ body{
 .box-blue {
   background-color: blue;
 }
+.conatainer{
+  
+  padding: 50px 20px;
+margin-top: 20px;
+}
+.smile,.sad,.angry{
+  font-size: 5rem;
+  
+}
+.smile{
+  color: rgb(255, 170, 0);
+}
+.sad{
+  color:rgb(20, 220, 80)
+}
+.angry{
+  color: red;
+}
